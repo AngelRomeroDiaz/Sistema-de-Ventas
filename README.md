@@ -16,7 +16,9 @@ El sistema fue desarrollado como parte de un proyecto académico utilizando NetB
 ---
 
 ## Instrucciones de Ejecución
-
+- Importar el archivo sistemaventa.sql que viene enlos archivos en mySQL
+- En la carpeta modelo, ubicar la clase Conexion.cs, y editar la cadena de conexion segun sea su caso
+- ejecutar el proyecto, pedira un correro y contraseña. ususario :angel@gmail.com   contraseña: pass
 ### Requisitos
 
 - **NetBeans IDE** (versión recomendada: 12 o superior)
